@@ -1,0 +1,27 @@
+h1 {
+    color: blue;
+}
+h2 {
+    color: green;
+}
+body {
+    background-color: #f0f4f8;
+    font-family: sans-serif;
+    padding: 40px;
+}
+.profile{
+    background-color: white;
+    padding: 60px;
+    border-radius: 16px;
+    max-width: 600px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.profile-photo{
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
